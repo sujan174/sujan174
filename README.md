@@ -5,7 +5,7 @@
 ### Software Developer | AI Automation Architect
 
 [![Email](https://img.shields.io/badge/sjn.174%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjn.174@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=sujan174&icon=2&color=3&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-h-358068378/)
 
 </div>
 
