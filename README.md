@@ -1,8 +1,6 @@
 <div align="center">
 
-# SUJAN NAIK
-
-### Software Developer | AI Automation Architect
+# SUJAN H
 
 [![Email](https://img.shields.io/badge/sjn.174%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sjn.174@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan-h-358068378/)
